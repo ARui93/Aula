@@ -16,7 +16,7 @@
 * git push – Atualiza referências remotas junto com objetos associados.
 * git pull - Busca e integra com outro repositório ou branch local.
 * git fetch – Baixe objetos e referências de outro repositório.
-* git branch testing - Para criar uma branch de teste.
+* git branch - Para criar uma branch.
 * git log - Me dá todos os detalhes da branch que estou e os commit que foram feitos.
 * git checkout - Para mudar de branch. 
 
