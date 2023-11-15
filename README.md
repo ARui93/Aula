@@ -26,11 +26,13 @@ Quando estiver satisfeito com as alterações que foram feitas, temos que fazer 
 ***
 Quando as alterações são feitas no repositório remoto, temos que fazer o fluxo de: pull para atualizar direto ou fetch que vai baixar as alterações mas não vai atualizar e podemos usar o diff (diff origin/main) para ver as alterações e depois pull caso esteja de acordo.
 ***
-Utilizei (git branch testing "Para criar a branch testing."
-  git log --oneline --decorate "Para mostar que o HEAD estava em main"
-  git checkout testing "Para entrar na branch testing"
-  git log --oneline --decorate "Para mostar que o HEAD estava em testing"
-  Criei um novo arquivo na branch testing.
-  git checkout main "Para entrar na branch main"
-  git merge testing "Para trazer tudo que foi feito na branch testing para a branch main"
-)
+
+| Códigos | Detalhes |
+|-------|--------|
+|git branch testing|["Para criar a branch testing."]|
+|git log --oneline --decorate|["Para mostar que o HEAD estava em main"]|
+|git checkout testing |["Para entrar na branch testing"]|
+|git log --oneline --decorate | ["Para mostar que o HEAD estava em testing"]|
+|git commit -m | ["Para mostar que o HEAD estava em testing"]|
+|git checkout main | ["Para entrar na branch main"]|
+|git merge testing | ["Para trazer tudo que foi feito na branch testing para a branch main"]|
