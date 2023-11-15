@@ -1,5 +1,11 @@
 # Curso Digital: Git Ada/Santander
+
+## 📚 Documentação:
+- [Documentação Git](https://git-scm/doc)
+- [Documentação GitHub](https://docs.github.com/pt)
+
 ## Comandos:
+* git-init – Crie um repositório Git vazio ou reinicialize um existente.
 * git add – Adiciona o conteúdo do arquivo.
 * git commit - Registra alterações no repositório.
 * git-diff - Mostra alterações entre commits, commit e árvore de trabalho, etc.
