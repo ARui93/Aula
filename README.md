@@ -18,6 +18,7 @@
 * git fetch – Baixe objetos e referências de outro repositório.
 * git branch testing - Para criar uma branch de teste.
 * git log - Me dá todos os detalhes da branch que estou e os commit que foram feitos.
+* git checkout - Para mudar de branch. 
 
 ***
 Quando estiver satisfeito com as alterações que foram feitas, temos que fazer todo o fluxo de: add .\ARQUIVO, commit -m, remote, push "resultado do remote" branch(main ou master).
