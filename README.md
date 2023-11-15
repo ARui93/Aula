@@ -8,6 +8,7 @@
 * git remote - Gerenciar conjunto de repositórios rastreados.
 * git push – Atualiza referências remotas junto com objetos associados.
 * git-pull - Busca e integra com outro repositório ou branch local.
+* git-fetch – Baixe objetos e referências de outro repositório.
 
 ---
 Quando estiver satisfeito com as alterações que foram feitas, temos que fazer todo o fluxo de: add .\ARQUIVO, commit -m, remote, push "resultado do remote" branch(main ou master).
