@@ -29,10 +29,10 @@ Quando as alterações são feitas no repositório remoto, temos que fazer o flu
 
 | Códigos | Detalhes |
 |-------|--------|
-|git branch testing|["Para criar a branch testing."]|
-|git log --oneline --decorate|["Para mostar que o HEAD estava em main"]|
-|git checkout testing |["Para entrar na branch testing"]|
-|git log --oneline --decorate | ["Para mostar que o HEAD estava em testing"]|
-|git commit -m | ["Para mostar que o HEAD estava em testing"]|
-|git checkout main | ["Para entrar na branch main"]|
-|git merge testing | ["Para trazer tudo que foi feito na branch testing para a branch main"]|
+|git branch testing|Para criar a branch testing.|
+|git log --oneline --decorate|Para mostar que o HEAD estava em main.|
+|git checkout testing |Para entrar na branch testing.|
+|git log --oneline --decorate |Para mostar que o HEAD estava em testing.|
+|git commit -m |Para mostar que o HEAD estava em testing.|
+|git checkout main |Para entrar na branch main.|
+|git merge testing |Para trazer tudo que foi feito na branch testing para a branch main.|
