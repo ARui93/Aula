@@ -7,3 +7,7 @@
 * git log – Mostrar logs de commit.
 * git remote - Gerenciar conjunto de repositórios rastreados.
 * git push – Atualiza referências remotas junto com objetos associados.
+
+---
+**Quando estiver satisfeito com as alterações que foram feitas, temos que fazer todo o fluxo de:
+** add, comiit e push.
