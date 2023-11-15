@@ -9,5 +9,5 @@
 * git push – Atualiza referências remotas junto com objetos associados.
 
 ---
-**Quando estiver satisfeito com as alterações que foram feitas, temos que fazer todo o fluxo de:
-** add, comiit e push.
+Quando estiver satisfeito com as alterações que foram feitas, temos que fazer todo o fluxo de: add .\ARQUIVO, commit -m, remote, push "resultado do remote" branch(main ou master).
+---
