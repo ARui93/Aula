@@ -11,9 +11,8 @@
 * git-pull - Busca e integra com outro repositório ou branch local.
 * git-fetch – Baixe objetos e referências de outro repositório.
 
----
+***
 Quando estiver satisfeito com as alterações que foram feitas, temos que fazer todo o fluxo de: add .\ARQUIVO, commit -m, remote, push "resultado do remote" branch(main ou master).
----
 ***
 Quando as alterações são feitas no repositório remoto, temos que fazer o fluxo de: pull para atualizar direto ou fetch que vai baixar as alterações mas não vai atualizar e podemos usar o diff (diff origin/main) para ver as alterações e depois pull caso esteja de acordo.
 ***
