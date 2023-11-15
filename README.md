@@ -33,6 +33,6 @@ Quando as alterações são feitas no repositório remoto, temos que fazer o flu
 |git log --oneline --decorate|Para mostar que o HEAD estava em main.|
 |git checkout testing |Para entrar na branch testing.|
 |git log --oneline --decorate |Para mostar que o HEAD estava em testing.|
-|git commit -m |Para mostar que o HEAD estava em testing.|
+|git commit -m |Para criar um arquivo em testin.|
 |git checkout main |Para entrar na branch main.|
 |git merge testing |Para trazer tudo que foi feito na branch testing para a branch main.|
